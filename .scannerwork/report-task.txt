@@ -1,0 +1,7 @@
+organization=chpham8-github
+projectKey=chpham8_sonar-cube-test
+serverUrl=https://sonarcloud.io
+serverVersion=7.8.0.24676
+dashboardUrl=https://sonarcloud.io/dashboard?id=chpham8_sonar-cube-test
+ceTaskId=AWqeej-VAki0z6x-6aiW
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWqeej-VAki0z6x-6aiW
