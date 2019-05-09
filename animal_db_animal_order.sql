@@ -1,0 +1,1 @@
+INSERT INTO animal_db.animal_order (id, ani_order) VALUES (1, 'test');

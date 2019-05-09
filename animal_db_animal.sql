@@ -1,0 +1,2 @@
+INSERT INTO animal_db.animal (id, length, lifespan, mass, name, sci_name, animal_class_id, animal_order_id) VALUES (1, 1, '1', 1, 'fsdf', 'fdwfs', 1, 1);
+INSERT INTO animal_db.animal (id, length, lifespan, mass, name, sci_name, animal_class_id, animal_order_id) VALUES (2, 1, '1', 1, 'fsdfa', 'dasfasdf', 1, 1);
